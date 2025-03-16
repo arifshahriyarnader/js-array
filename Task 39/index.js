@@ -1,3 +1,5 @@
+//Find the total salary of all employees working in the "Engineering" department.
+
 const employees = [
   { id: 1, name: "Alice", departmentId: 1, salary: 5000 },
   { id: 2, name: "Bob", departmentId: 2, salary: 7000 },
