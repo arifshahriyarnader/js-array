@@ -33,4 +33,4 @@ const totalSalaryofEngineeringDept = employees.reduce((total, employee) => {
     ? total + employee.salary
     : total;
 }, 0);
-console.log(totalSalaryofEngineeringDept); //19800j
+console.log(totalSalaryofEngineeringDept);
